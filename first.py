@@ -274,5 +274,4 @@ def play():
    print(word)
    return repeat()
 
-
 print(play())
